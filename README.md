@@ -67,5 +67,11 @@ UML Components: CLASSIFIERS:
         -Component
         -Signal
 
+UML Components: Comments and Notes
+    -Common UML components are comments. 
+    -Also called "Notes,"Ability to have descriptive markup.
+    -In a rectangular box with dotted line to element
+    -Communication clarity for anyone reading it
+    -Explanations outside of normal scope
 
     

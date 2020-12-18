@@ -34,5 +34,38 @@ UML Components and Common Elements:
         -Dependencies
         -Features (which are also called Properties)
 
+UML Components: FRAMES: 
+    -Help you encapsalate your view components
+    -Provides Context
+    -Headings
+    -Descriptive notation
+    -Provides context
+        ++You want to know exactly what type of system it represents.
+        ++You want to know what type of diagram it is.
+    Diagram mapping:
+    act = activity
+    class = class
+    cmp = component
+    dep = deployment
+    sd = interaction
+    pkg = package
+    stm = state machine
+    uc = use case
+
+UML Components: CLASSIFIERS:
+    -Allow us to identify components. A category of components we see in every kind of diagram
+    -High level design
+    -Standardized naming convention as you start building out your designs
+        Used by:
+        -Class
+        -Interface
+        -Association
+        -DataType
+        -Actor
+        -Use Case
+        -Artifact
+        -Component
+        -Signal
 
 
+    

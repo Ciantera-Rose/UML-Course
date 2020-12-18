@@ -67,11 +67,17 @@ UML Components: CLASSIFIERS:
         -Component
         -Signal
 
-UML Components: Comments and Notes
+UML Components: COMMENTS and NOTES:
     -Common UML components are comments. 
     -Also called "Notes,"Ability to have descriptive markup.
     -In a rectangular box with dotted line to element
     -Communication clarity for anyone reading it
     -Explanations outside of normal scope
 
-    
+UML Components: DEPENDENCIES:
+    -Denotes coupling. Gives abilty to see how badly one component needs another component
+    -Dotted line with open arrow
+    -Model required components 
+    -Regression error prevention
+    -ie. Song request class that communicates with API. Needs API to work
+        *SongRequest - - - -> SpotifyAPI

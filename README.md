@@ -81,3 +81,9 @@ UML Components: DEPENDENCIES:
     -Regression error prevention
     -ie. Song request class that communicates with API. Needs API to work
         *SongRequest - - - -> SpotifyAPI
+
+UML Components: FEATURES and PROPERTIES:
+    -Represents attributes of an element
+    -Name and optional attributes
+    -Implementation guidance
+    -Establish standarized/strict naming convention

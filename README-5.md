@@ -11,7 +11,7 @@
             *Name
             *Data Type
    -Class Diagram Associations:    
-        --ssociation: 
+        -Association: 
             -How one class is connected to another:
             *ie.
                 _Guide belongs to topic

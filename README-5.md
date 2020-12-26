@@ -10,15 +10,14 @@
             *Visibility
             *Name
             *Data Type
-
    -Class Diagram Associations:    
-        -Association: 
+        --ssociation: 
             -How one class is connected to another:
             *ie.
-                -Guide belongs to topic
-                -Topic has many guides
-                -A guide has many and belongs to tags
-                -A tag has many and belongs to guides
+                _Guide belongs to topic
+                _Topic has many guides
+                _A guide has many and belongs to tags
+                _A tag has many and belongs to guides
         -Multiplicity:
             -How we designinate the direction of the relationship in regards to numbers
                 -Topic: 1 Guide: 1..*    1..*     0..* Tag

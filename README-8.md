@@ -1,6 +1,7 @@
     **Elements of a UML Deployment Diagram**
 
-        -Deployment Diagrams: Deciding the architecture for a system
+        -Deployment Diagrams: 
+           *Deciding the architecture for a system
 
         -Six elements make up a deployment diagram;
             *Nodes

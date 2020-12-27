@@ -1,7 +1,8 @@
 **Overview of UML Use Case Diagram Elements**
 
         -Use Case Diagrams:
-            One of the reasons you build this type of diagram is to set up the authorization rules and to illustrate what types of features certain individuals or an API client is going to have access to.
+            One of the reasons you build this type of diagram is to set up the authorization rules and to illustrate what 
+            types of features certain individuals or an API client is going to have access to.
 
         -The four main elements that are:
             *Use Cases
@@ -21,7 +22,7 @@
                 *Actors will have access to the system
 
             -Subsystems:
-                *Subsystems are represented by large rectangular boxes that have use cases and different  elements inside of them. 
+                *Subsystems are represented by large rectangular boxes that have use cases and different elements inside of them. 
                 -ie>
                 *Get reports
                 *Get message
@@ -29,7 +30,8 @@
                 *Visit resources
                 *Forms
                 *All inside of this web dashboard element.
-                *Subsystems (also called system boundaries) are different elements that you can place inside of a use case diagram to help you organize and see where these types of use cases are actually going to occur.
+                *Subsystems (also called system boundaries) are different elements that you can place inside of a use case 
+                 diagram to help you organize and see where these types of use cases are actually going to occur.
 
             -Relationships:
                 *Relationships are represented by dotted lines with open arrows.        

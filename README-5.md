@@ -10,7 +10,9 @@
             *Visibility
             *Name
             *Data Type
-   -Class Diagram Associations:    
+            
+   
+    -Class Diagram Associations:   
         -Association: 
             -How one class is connected to another:
             *ie.

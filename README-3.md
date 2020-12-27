@@ -1,15 +1,15 @@
-High level overview of each of the major types of diagrams that are offered by UML
+**High level overview of each of the major types of diagrams that are offered by UML:**
 
--Two Categories: 
-    *Part One: Structrual Diagrams
-    *Part Two: Behavioral Diagrams
+    -Two Categories: 
+       *Part One: Structrual Diagrams
+       *Part Two: Behavioral Diagrams
 
-Part One:
-    -Structural diagrams:
-        -Are any type of diagrams that model the way a system is architected.
-        -A class diagram is one of the most popular structural diagrams out there. 
-        -It's a way of defining the different class names, attributes, and method 
-        names that belong inside of a system that you're building.
+    -Part One:
+       -Structural diagrams:
+           -Are any type of diagrams that model the way a system is architected.
+           -A class diagram is one of the most popular structural diagrams out there. 
+           -It's a way of defining the different class names, attributes, and method 
+           names that belong inside of a system that you're building.
 
         -CLASS: 
             Pick out what type of data you want, how you want those elements 
